@@ -1,0 +1,18 @@
+ros-jade-idolink-node (0.1.2-0vivid) vivid; urgency=high
+
+  * Merge pull request #1 <https://github.com/pal-robotics/idolink_node/issues/1> from procopiostein/master
+    changed package name to idolink_node
+  * changed package name to idolink_node
+  * Contributors: Luca Marchionni, Procópio Stein
+
+ -- Procopio Stein <procopio.stein@pal-robotics.com>  Mon, 16 Jan 2017 23:00:00 -0000
+
+ros-jade-idolink-node (0.1.1-0vivid) vivid; urgency=high
+
+  * initial commit
+  * Initial commit
+  * Contributors: Procópio Stein, procopiostein
+
+ -- Procopio Stein <procopio.stein@pal-robotics.com>  Wed, 11 Jan 2017 23:00:00 -0000
+
+
